@@ -18,7 +18,7 @@ problem 3 - Write a program that prints the longest substring in alphabetical or
 
 problem 1 - Write a program to calculate the credit card balance after one year if a person only pays the minimum monthly payment required by the credit card company each month.
 
-problem 2 - Write a program that calculates the minimum fixed monthly payment needed in order pay off a credit card balance within 12 months.
+problem 2 - Write a program that calculates the minimum fixed monthly payment needed in order to pay off a credit card balance within 12 months.
 
 problem 3 - Write a program to calculates how much money the student has to pay in order to clear the balance in one year using bisection search.
 
@@ -27,8 +27,8 @@ problem 3 - Write a program to calculates how much money the student has to pay 
 problem 3 - Built the Hangman game which generates a random secret word from a text file. 
 
 - Let the user know how many letters the secretWord contains.
-- Ask user to guess letter per round
-- The user should receive feedback immediately after each guess about whether their guess appears in the computers word.
+- Ask the user to guess letter per round
+- The user should receive feedback immediately after each guess about whether their guess appears in the computer's word.
 - After each round, you should also display to the user the partially guessed word so far, as well as letters that the user has not yet guessed.
 
 
